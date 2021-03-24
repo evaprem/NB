@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 Mar 2021 23:19:36 at https://shor.by/eTa0 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%P%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shor.by/eTa0 -O1 "C:\Users\XE\Desktop\NATA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:19:41	Warning: 	link is probably looping, type unknown, aborting: https://shor.by/1RDd
+23:19:42	Warning: 	link is probably looping, type unknown, aborting: https://shor.by/Msak
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 seconds : 24 links scanned, 23 files written (1089338 bytes overall) [1110622 bytes received at 24143 bytes/sec], 30530 bytes transferred using HTTP compression in 5 files, ratio 32%, 1.5 requests per connection
+(No errors, 2 warnings, 0 messages)
